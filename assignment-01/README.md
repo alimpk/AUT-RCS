@@ -1,11 +1,11 @@
 # AUT-RCS
 
-## Recongurable Systems Assignment 01
+## Reconfigurable Systems Assignment 01
 
 ### Problem 1
 Determine the correctness or incorrectness of the following statements with good reason:
 
-* **I.** It is not cost-effective to use FPGA compared to ASIC for mass production.
+* **A.** It is not cost-effective to use FPGA compared to ASIC for mass production.
 
 * **B.** Designs based on the general-purpose processor and the FPGA chip are two ends of the spectrum of efficiency and flexibility.
 
@@ -26,5 +26,19 @@ Determine the correctness or incorrectness of the following statements with good
 ### Problem 3
 
 Design the two-bit unsigned multiplier circuit in Figure 3 by using the minimum number of lookup table with a structure similar to Figure 1.
+
+<figure>
+  <img
+  src="./fig1_CostumLUT.png"
+  alt="Custom LUT">
+  <figcaption>Fig. 1: Custom Lookup Table</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="./fig2_multiplier2x2.png"
+  alt="Multiplier">
+  <figcaption>Fig. 2: Multiplier 2x2 </figcaption>
+</figure>
 
 
